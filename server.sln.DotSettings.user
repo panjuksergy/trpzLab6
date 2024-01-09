@@ -1,0 +1,40 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AControllers_002Ff_003ACinemaController_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Ff_003AProgram_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AServices_002Ff_003AUnitOfWork_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AProperties_002Ff_003AlaunchSettings_002Ejson/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AControllers_002Ff_003ABaseController_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AModels_002Ff_003ACreateNewProdDto_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AData_002Fd_003ARepository_002Ff_003AMovieRepository_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AModels_002Ff_003ACinemaProd_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AModels_002Ff_003AMovie_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=3655F035_002D9172_002D415B_002D8D0B_002D69A64215F275_002Fd_003AEntityTypeConfiguration_002Ff_003AMoviesConfiguration_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/ActualSeverity/@EntryValue">INFO</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=CodeStyle/@EntryIndexedValue">On</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=NamingFilter/@EntryIndexedValue">On</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/FiltersState/=SpellingFilter/@EntryIndexedValue">On</s:String>
+	<s:String x:Key="/Default/CodeInspection/PencilsConfiguration/Storage/@EntryValue">ThisComputer</s:String>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/EnableInlayHints/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5fdf8465_002D616d_002D41fb_002D95b3_002Dd9aa70e87c7b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindByIdAsync_ReturnsCorrectCinemaProd" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3C2E3D9A-0B35-4309-AE62-37ECB5933D81::net6.0::RepoTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7f20906a_002D7dcf_002D4a36_002D9aa5_002Ddf654bb9c283/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UpdateProdCinema" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3C2E3D9A-0B35-4309-AE62-37ECB5933D81::net6.0::RepoTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d92e1b16_002D6865_002D46e6_002Da4ee_002De911b0627b59/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FindByIdAsync_ReturnsCorrectCinemaProd #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3C2E3D9A-0B35-4309-AE62-37ECB5933D81::net6.0::RepoTests.FindByIdAsync_ReturnsCorrectCinemaProd&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d9e80262_002D2818_002D45be_002Db4b0_002D5937e48eee2d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllProdForCinema_ReturnCorrectProdByCinema" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3C2E3D9A-0B35-4309-AE62-37ECB5933D81::net6.0::RepoTests.GetAllProdForCinema_ReturnCorrectProdByCinema&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C2E3D9A-0B35-4309-AE62-37ECB5933D81::net6.0::RepoTests.GetAllMovies_ReturnsCorrectMoviesCount&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C2E3D9A-0B35-4309-AE62-37ECB5933D81::net6.0::RepoTests.CreateMovie_CheckIfCreatesAsExpect&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3C2E3D9A-0B35-4309-AE62-37ECB5933D81::net6.0::RepoTests.UpdateProdCinema&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

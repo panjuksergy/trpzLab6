@@ -1,0 +1,159 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/IdentityService/SparkSwim.IdentityService.csproj": {}
+  },
+  "projects": {
+    "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/IdentityService/SparkSwim.IdentityService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/IdentityService/SparkSwim.IdentityService.csproj",
+        "projectName": "SparkSwim.IdentityService",
+        "projectPath": "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/IdentityService/SparkSwim.IdentityService.csproj",
+        "packagesPath": "/home/elainezirael/.nuget/packages/",
+        "outputPath": "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/IdentityService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elainezirael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/SparkSwim.Core/SparkSwim.Core.csproj": {
+                "projectPath": "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/SparkSwim.Core/SparkSwim.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.118/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/SparkSwim.Core/SparkSwim.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/SparkSwim.Core/SparkSwim.Core.csproj",
+        "projectName": "SparkSwim.Core",
+        "projectPath": "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/SparkSwim.Core/SparkSwim.Core.csproj",
+        "packagesPath": "/home/elainezirael/.nuget/packages/",
+        "outputPath": "/home/elainezirael/InforceTestTask/MakeUrURLShorter/server/SparkSwim.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elainezirael/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/6.0.118/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

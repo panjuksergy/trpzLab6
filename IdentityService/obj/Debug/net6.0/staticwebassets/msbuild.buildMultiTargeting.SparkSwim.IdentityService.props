@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SparkSwim.IdentityService.props" />
+</Project>
